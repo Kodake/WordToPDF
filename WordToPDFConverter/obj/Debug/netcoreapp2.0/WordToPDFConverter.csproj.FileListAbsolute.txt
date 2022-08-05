@@ -1,0 +1,13 @@
+C:\Users\Kodake\Desktop\WordToPDF\WordToPDFConverter\bin\Debug\netcoreapp2.0\WordToPDFConverter.deps.json
+C:\Users\Kodake\Desktop\WordToPDF\WordToPDFConverter\bin\Debug\netcoreapp2.0\WordToPDFConverter.runtimeconfig.json
+C:\Users\Kodake\Desktop\WordToPDF\WordToPDFConverter\bin\Debug\netcoreapp2.0\WordToPDFConverter.runtimeconfig.dev.json
+C:\Users\Kodake\Desktop\WordToPDF\WordToPDFConverter\bin\Debug\netcoreapp2.0\WordToPDFConverter.dll
+C:\Users\Kodake\Desktop\WordToPDF\WordToPDFConverter\bin\Debug\netcoreapp2.0\WordToPDFConverter.pdb
+C:\Users\Kodake\Desktop\WordToPDF\WordToPDFConverter\obj\Debug\netcoreapp2.0\WordToPDFConverter.csproj.AssemblyReference.cache
+C:\Users\Kodake\Desktop\WordToPDF\WordToPDFConverter\obj\Debug\netcoreapp2.0\WordToPDFConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kodake\Desktop\WordToPDF\WordToPDFConverter\obj\Debug\netcoreapp2.0\WordToPDFConverter.AssemblyInfoInputs.cache
+C:\Users\Kodake\Desktop\WordToPDF\WordToPDFConverter\obj\Debug\netcoreapp2.0\WordToPDFConverter.AssemblyInfo.cs
+C:\Users\Kodake\Desktop\WordToPDF\WordToPDFConverter\obj\Debug\netcoreapp2.0\WordToPDFConverter.csproj.CoreCompileInputs.cache
+C:\Users\Kodake\Desktop\WordToPDF\WordToPDFConverter\obj\Debug\netcoreapp2.0\WordToPDFConverter.dll
+C:\Users\Kodake\Desktop\WordToPDF\WordToPDFConverter\obj\Debug\netcoreapp2.0\WordToPDFConverter.pdb
+C:\Users\Kodake\Desktop\WordToPDF\WordToPDFConverter\obj\Debug\netcoreapp2.0\WordToPDFConverter.genruntimeconfig.cache

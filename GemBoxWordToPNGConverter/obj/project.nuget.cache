@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HXZJb95bOTRHRjh8gFzgUck0VXp50zuKYwv8HwFiJuNvQTJ4Kp8Mqfqw4FWKNjRYxJZGiwXf6lJ+dyXFB0GLCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kodake\\Desktop\\WordToPDF\\GemBoxWordToPNGConverter\\GemBoxWordToPNGConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kodake\\.nuget\\packages\\gembox.document\\35.0.1055\\gembox.document.35.0.1055.nupkg.sha512",
+    "C:\\Users\\Kodake\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kodake\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kodake\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\Kodake\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kodake\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

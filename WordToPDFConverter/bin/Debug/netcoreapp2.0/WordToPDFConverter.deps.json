@@ -1,0 +1,357 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "WordToPDFConverter/1.0.0": {
+        "dependencies": {
+          "Syncfusion.DocIORenderer.Net.Core": "20.2.0.40",
+          "Syncfusion.Pdf.Net.Core": "20.2.0.40"
+        },
+        "runtime": {
+          "WordToPDFConverter.dll": {}
+        }
+      },
+      "HarfBuzzSharp/2.8.2-preview.209": {
+        "dependencies": {
+          "HarfBuzzSharp.NativeAssets.Win32": "2.8.2-preview.209",
+          "HarfBuzzSharp.NativeAssets.macOS": "2.8.2-preview.209",
+          "System.Memory": "4.5.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/HarfBuzzSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "2.8.2.0"
+          }
+        }
+      },
+      "HarfBuzzSharp.NativeAssets.macOS/2.8.2-preview.209": {
+        "runtimeTargets": {
+          "runtimes/osx/native/libHarfBuzzSharp.dylib": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "HarfBuzzSharp.NativeAssets.Win32/2.8.2-preview.209": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/libHarfBuzzSharp.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/libHarfBuzzSharp.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/libHarfBuzzSharp.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "SkiaSharp/2.88.0-preview.209": {
+        "dependencies": {
+          "SkiaSharp.NativeAssets.Win32": "2.88.0-preview.209",
+          "SkiaSharp.NativeAssets.macOS": "2.88.0-preview.209",
+          "System.Memory": "4.5.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SkiaSharp.dll": {
+            "assemblyVersion": "2.88.0.0",
+            "fileVersion": "2.88.0.0"
+          }
+        }
+      },
+      "SkiaSharp.HarfBuzz/2.88.0-preview.209": {
+        "dependencies": {
+          "HarfBuzzSharp": "2.8.2-preview.209",
+          "SkiaSharp": "2.88.0-preview.209"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SkiaSharp.HarfBuzz.dll": {
+            "assemblyVersion": "2.88.0.0",
+            "fileVersion": "2.88.0.0"
+          }
+        }
+      },
+      "SkiaSharp.NativeAssets.macOS/2.88.0-preview.209": {
+        "runtimeTargets": {
+          "runtimes/osx/native/libSkiaSharp.dylib": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "SkiaSharp.NativeAssets.Win32/2.88.0-preview.209": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/libSkiaSharp.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/libSkiaSharp.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/libSkiaSharp.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Syncfusion.Compression.Net.Core/20.2.0.40": {
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Compression.Portable.dll": {
+            "assemblyVersion": "20.2200.0.40",
+            "fileVersion": "20.2200.0.40"
+          }
+        }
+      },
+      "Syncfusion.DocIO.Net.Core/20.2.0.40": {
+        "dependencies": {
+          "Syncfusion.Compression.Net.Core": "20.2.0.40",
+          "Syncfusion.Licensing": "20.2.0.40",
+          "Syncfusion.OfficeChart.Net.Core": "20.2.0.40",
+          "System.Text.Encoding.CodePages": "4.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.DocIO.Portable.dll": {
+            "assemblyVersion": "20.2200.0.40",
+            "fileVersion": "20.2200.0.40"
+          }
+        }
+      },
+      "Syncfusion.DocIORenderer.Net.Core/20.2.0.40": {
+        "dependencies": {
+          "SkiaSharp.HarfBuzz": "2.88.0-preview.209",
+          "Syncfusion.Compression.Net.Core": "20.2.0.40",
+          "Syncfusion.DocIO.Net.Core": "20.2.0.40",
+          "Syncfusion.OfficeChart.Net.Core": "20.2.0.40",
+          "Syncfusion.Pdf.Net.Core": "20.2.0.40",
+          "Syncfusion.SkiaSharpHelper.Net.Core": "20.2.0.40"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.DocIORenderer.Portable.dll": {
+            "assemblyVersion": "20.2200.0.40",
+            "fileVersion": "20.2200.0.40"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "20.2.0.40",
+            "fileVersion": "20.2.0.40"
+          }
+        }
+      },
+      "Syncfusion.OfficeChart.Net.Core/20.2.0.40": {
+        "dependencies": {
+          "Syncfusion.Compression.Net.Core": "20.2.0.40"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.OfficeChart.Portable.dll": {
+            "assemblyVersion": "20.2200.0.40",
+            "fileVersion": "20.2200.0.40"
+          }
+        }
+      },
+      "Syncfusion.Pdf.Net.Core/20.2.0.40": {
+        "dependencies": {
+          "Syncfusion.Compression.Net.Core": "20.2.0.40",
+          "Syncfusion.Licensing": "20.2.0.40",
+          "System.Text.Encoding.CodePages": "4.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Pdf.Portable.dll": {
+            "assemblyVersion": "20.2200.0.40",
+            "fileVersion": "20.2200.0.40"
+          }
+        }
+      },
+      "Syncfusion.SkiaSharpHelper.Net.Core/20.2.0.40": {
+        "dependencies": {
+          "SkiaSharp.HarfBuzz": "2.88.0-preview.209",
+          "Syncfusion.Compression.Net.Core": "20.2.0.40"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.SkiaSharpHelper.Portable.dll": {
+            "assemblyVersion": "20.2200.0.40",
+            "fileVersion": "20.2200.0.40"
+          }
+        }
+      },
+      "System.Memory/4.5.3": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Memory.dll": {
+            "assemblyVersion": "4.0.1.1",
+            "fileVersion": "4.6.27617.2"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.4.1",
+            "fileVersion": "4.6.26919.2"
+          }
+        }
+      },
+      "System.Text.Encoding.CodePages/4.4.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Text.Encoding.CodePages.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.6.25519.3"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.6.25519.3"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WordToPDFConverter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HarfBuzzSharp/2.8.2-preview.209": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sSK2t45blFE2oeOnY1G3IKTe2uu5op1Knc3P3VcQiF/A6Odlko5p8g3pDRAhpSMtCquda68UN26Szft/te10jg==",
+      "path": "harfbuzzsharp/2.8.2-preview.209",
+      "hashPath": "harfbuzzsharp.2.8.2-preview.209.nupkg.sha512"
+    },
+    "HarfBuzzSharp.NativeAssets.macOS/2.8.2-preview.209": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p25T09D0weN9WRhrbqOQPS2hKdsUf1chpB68QlHR3v6GY6ZKRt455KPPN3xAddhDzW8Puu1uX4qPIvhECJzxrw==",
+      "path": "harfbuzzsharp.nativeassets.macos/2.8.2-preview.209",
+      "hashPath": "harfbuzzsharp.nativeassets.macos.2.8.2-preview.209.nupkg.sha512"
+    },
+    "HarfBuzzSharp.NativeAssets.Win32/2.8.2-preview.209": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QZsRq0hB4vSJReNpfuVTu7/uPeUm7Q/64xnoFyQNnrffnKdWp9ZHLZDKJflNCA/Z4/GDhKSc2fgZFXWsmRoWJg==",
+      "path": "harfbuzzsharp.nativeassets.win32/2.8.2-preview.209",
+      "hashPath": "harfbuzzsharp.nativeassets.win32.2.8.2-preview.209.nupkg.sha512"
+    },
+    "SkiaSharp/2.88.0-preview.209": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jziygjO+AP7EOiZqmkN/rd3gbf1dUYWOW+zjZ2EP096AXojJZGRoyMlVq/NxwJodsdRc81FRUM1O4HrS1fYOZg==",
+      "path": "skiasharp/2.88.0-preview.209",
+      "hashPath": "skiasharp.2.88.0-preview.209.nupkg.sha512"
+    },
+    "SkiaSharp.HarfBuzz/2.88.0-preview.209": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EB3pEZunwc356dBhq32vQwLUMD5d2m6SxW0n741fGZsRl85z57l3nUlQkzATMgReqRyDa7syt9/HTCAyefFi4g==",
+      "path": "skiasharp.harfbuzz/2.88.0-preview.209",
+      "hashPath": "skiasharp.harfbuzz.2.88.0-preview.209.nupkg.sha512"
+    },
+    "SkiaSharp.NativeAssets.macOS/2.88.0-preview.209": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LRvhvyxPAgOayu/C559aIUSVTGQLOtE6Sn5e1Zi4U4SCoCNjkmfmu4xMxL9V/A+JAD28geo0s9F17vwd9Ab9dw==",
+      "path": "skiasharp.nativeassets.macos/2.88.0-preview.209",
+      "hashPath": "skiasharp.nativeassets.macos.2.88.0-preview.209.nupkg.sha512"
+    },
+    "SkiaSharp.NativeAssets.Win32/2.88.0-preview.209": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BFOrh37vl/BnkdRsKqi0eqpN9VttqAa/RRcpFpmuwPQRpvzTWTsl3bk7V/OMY8W6ccAmt2xeJh8X3Zwqs7pxCA==",
+      "path": "skiasharp.nativeassets.win32/2.88.0-preview.209",
+      "hashPath": "skiasharp.nativeassets.win32.2.88.0-preview.209.nupkg.sha512"
+    },
+    "Syncfusion.Compression.Net.Core/20.2.0.40": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7lM9W7UngaOX/6ux8LxHx97Xr9EziQ1I4Duxlx8mbXbWI08TmhSz+/PLOaeMkJtFfjWLIR66NNOlgJf3XgiVGA==",
+      "path": "syncfusion.compression.net.core/20.2.0.40",
+      "hashPath": "syncfusion.compression.net.core.20.2.0.40.nupkg.sha512"
+    },
+    "Syncfusion.DocIO.Net.Core/20.2.0.40": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6fte5rX4qVLieR+JAKhWV4YQ3ro9tslMhumGX5qV6wh+L1tMfqFC4bPdWYROIAIGOeNhV+VPJAL3eUsWd/P/ag==",
+      "path": "syncfusion.docio.net.core/20.2.0.40",
+      "hashPath": "syncfusion.docio.net.core.20.2.0.40.nupkg.sha512"
+    },
+    "Syncfusion.DocIORenderer.Net.Core/20.2.0.40": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r4I3KlOS2lEAdD5RBn7o0lFHwbqn25luBKiTdnzFiQ4sPttq/E3wqKEimsazdrqEf1Yeu7VVtUFCPGA8REGOVQ==",
+      "path": "syncfusion.dociorenderer.net.core/20.2.0.40",
+      "hashPath": "syncfusion.dociorenderer.net.core.20.2.0.40.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/20.2.0.40": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+JLKLk0xCvAVGsb/O1ocJiiEmYwIxn2cpmGf5pNZoZCW4c1GwTNANnoSQZXkcbNz/9FvtQZ/1Fhh7qbjgZuZeQ==",
+      "path": "syncfusion.licensing/20.2.0.40",
+      "hashPath": "syncfusion.licensing.20.2.0.40.nupkg.sha512"
+    },
+    "Syncfusion.OfficeChart.Net.Core/20.2.0.40": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fBwpWb0K8kubUXMnFoWuUHyxjnibFjH6ZRezik8+jR4MuQ84aWqLRr2/d6vyS5w4N79uVGS2z5TPolCN37qRGw==",
+      "path": "syncfusion.officechart.net.core/20.2.0.40",
+      "hashPath": "syncfusion.officechart.net.core.20.2.0.40.nupkg.sha512"
+    },
+    "Syncfusion.Pdf.Net.Core/20.2.0.40": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q/1EchbUS6uHwzs8MDypgok9brLDNmwjx/+uvNCEojxBm17nF2bTiX/eMxR5shH42L36hORJls3xtZp2U+5X7w==",
+      "path": "syncfusion.pdf.net.core/20.2.0.40",
+      "hashPath": "syncfusion.pdf.net.core.20.2.0.40.nupkg.sha512"
+    },
+    "Syncfusion.SkiaSharpHelper.Net.Core/20.2.0.40": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1WvHM5mnYXf52SlfvPmlVkKWg9k4qIkD06aT/kXlQog1u40UAGSKS3+ZFVSSv/6r05C7vD0Ixmlh12M7Jeb33Q==",
+      "path": "syncfusion.skiasharphelper.net.core/20.2.0.40",
+      "hashPath": "syncfusion.skiasharphelper.net.core.20.2.0.40.nupkg.sha512"
+    },
+    "System.Memory/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
+      "path": "system.memory/4.5.3",
+      "hashPath": "system.memory.4.5.3.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wprSFgext8cwqymChhrBLu62LMg/1u92bU+VOwyfBimSPVFXtsNqEWC92Pf9ofzJFlk4IHmJA75EDJn1b2goAQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.2",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6JX7ZdaceBiLKLkYt8zJcp4xTJd1uYyXXEkPw6mnlUIjh1gZPIVKPtRXPmY5kLf6DwZmf5YLwR3QUrRonl7l0A==",
+      "path": "system.text.encoding.codepages/4.4.0",
+      "hashPath": "system.text.encoding.codepages.4.4.0.nupkg.sha512"
+    }
+  }
+}

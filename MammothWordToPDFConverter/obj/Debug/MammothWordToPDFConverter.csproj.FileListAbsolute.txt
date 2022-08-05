@@ -1,0 +1,10 @@
+C:\Users\Kodake\Desktop\WordToPDF\MammothWordToPDFConverter\bin\Debug\MammothWordToPDFConverter.exe.config
+C:\Users\Kodake\Desktop\WordToPDF\MammothWordToPDFConverter\bin\Debug\MammothWordToPDFConverter.exe
+C:\Users\Kodake\Desktop\WordToPDF\MammothWordToPDFConverter\bin\Debug\MammothWordToPDFConverter.pdb
+C:\Users\Kodake\Desktop\WordToPDF\MammothWordToPDFConverter\bin\Debug\Mammoth.dll
+C:\Users\Kodake\Desktop\WordToPDF\MammothWordToPDFConverter\obj\Debug\MammothWordToPDFConverter.csproj.AssemblyReference.cache
+C:\Users\Kodake\Desktop\WordToPDF\MammothWordToPDFConverter\obj\Debug\MammothWordToPDFConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kodake\Desktop\WordToPDF\MammothWordToPDFConverter\obj\Debug\MammothWordToPDFConverter.csproj.CoreCompileInputs.cache
+C:\Users\Kodake\Desktop\WordToPDF\MammothWordToPDFConverter\obj\Debug\MammothWordToPDFConverter.csproj.CopyComplete
+C:\Users\Kodake\Desktop\WordToPDF\MammothWordToPDFConverter\obj\Debug\MammothWordToPDFConverter.exe
+C:\Users\Kodake\Desktop\WordToPDF\MammothWordToPDFConverter\obj\Debug\MammothWordToPDFConverter.pdb

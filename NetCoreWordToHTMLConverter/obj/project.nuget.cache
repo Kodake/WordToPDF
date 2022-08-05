@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mNG18+FU6rWBbhrgsvbeXic81BYYPb50I7+hvuy79wEQ3wcczpXmdaOIIulppZXdH+F+akye9k0d2yjRO49+lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kodake\\Desktop\\WordToPDF\\NetCoreWordToHTMLConverter\\NetCoreWordToHTMLConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kodake\\.nuget\\packages\\documentformat.openxml\\2.10.0-beta0002\\documentformat.openxml.2.10.0-beta0002.nupkg.sha512",
+    "C:\\Users\\Kodake\\.nuget\\packages\\docxtopdfconverter\\1.0.5\\docxtopdfconverter.1.0.5.nupkg.sha512",
+    "C:\\Users\\Kodake\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Kodake\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\Kodake\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512",
+    "C:\\Users\\Kodake\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
