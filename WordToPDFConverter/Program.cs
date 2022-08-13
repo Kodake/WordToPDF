@@ -1,5 +1,6 @@
 ﻿using Aspose.Words;
 using System.Drawing;
+using System.IO;
 
 namespace WordToPDFConverter
 {
@@ -7,22 +8,17 @@ namespace WordToPDFConverter
     {
         static void Main(string[] args)
         {
-            var doc = new Document(@"C:\Users\Kodake\Desktop\Template.docx");
-
-            TextWatermarkOptions options = new TextWatermarkOptions()
+            static void Main(string[] args)
             {
-                FontFamily = "Arial",
-                FontSize = 36,
-                Color = Color.Black,
-                Layout = WatermarkLayout.Horizontal,
-                IsSemitrasparent = false
-            };
+                string root = @"C:\Users\rflorentino\Downloads\Materiales relacionados\New_XML_Archivo_de_Conversion\WORD-FILE";
+                string[] fileEntries = Directory.GetFiles(root);
 
-            doc.Watermark.SetText("Test Document Text", options);
-
-            doc.Save(doc + "AddTextWatermark_out.docx");
-
-            //doc.Save(@"C:\Users\Kodake\Desktop\Template.pdf");
+                foreach (string fileEntry in fileEntries)
+                {
+                    var doc = new Document(fileEntry);
+                    doc.Save(fileEntry.Replace("docx", "epub"));
+                }
+            }
         }
     }
 }
